@@ -10,6 +10,6 @@ require (
 	gopkg.in/alecthomas/kingpin.v2 v2.2.6
 	k8s.io/apimachinery v0.27.2
 	k8s.io/client-go v0.27.2
-	sigs.k8s.io/controller-runtime v0.15.1
+	sigs.k8s.io/controller-runtime v0.19.1
 	sigs.k8s.io/controller-tools v0.3.0
 )
