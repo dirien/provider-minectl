@@ -2,7 +2,7 @@ module github.com/crossplane/provider-template
 
 go 1.22.0
 
-toolchain go1.24.0
+toolchain go1.24.1
 
 require (
 	github.com/crossplane/crossplane-runtime v1.19.0
